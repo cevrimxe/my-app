@@ -44,7 +44,7 @@ const playLoadingSound = async () => {
     setInputBackup(backup);
     setIsLoading(true);
   
-    const apiKey = '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';
+    const apiKey = 'just ask to ahmet if you need';
   
     const userMessage = {
       id: Math.random().toString(36).substring(7),

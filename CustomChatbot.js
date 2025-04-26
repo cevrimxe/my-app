@@ -81,7 +81,7 @@ export default function CustomChatbot() {
     await playLoadingSound();
 
     try {
-      const apiKey = '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';
+      const apiKey = 'just ask to ahmet if you need';
 
       const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
         method: 'POST',
